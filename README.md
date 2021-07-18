@@ -1,4 +1,4 @@
 # first-repo
 First github repo
 
-Edited - modified locall
+Edited - modifed remote
